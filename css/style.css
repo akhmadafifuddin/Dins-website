@@ -352,8 +352,7 @@ footer .credit a {
 .products .product-image img {
   height: 20rem;
   width: 100%;
-  object-fit: cover;
-  border-radius: 8px;
+  object-fit: contain;
 }
 
 .products .product-content h3 {
